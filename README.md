@@ -18,4 +18,10 @@ Build a console-based basketball team statistics tool to help me divide up a gro
 
 ***Project review feedback***
 
+![](feed1.png)
 
+![](feed2.png)
+
+![](feed3.png)
+
+![](feed4.png)
