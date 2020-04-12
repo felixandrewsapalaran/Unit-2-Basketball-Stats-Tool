@@ -1,6 +1,4 @@
 # Unit-2-Basketball-Stats-Tool
-
-# Unit-2-Basketball-Stats-Tool
 Build a console-based basketball team statistics tool to help me divide up a group of players into teams. I've applied my knowledge in of important data structures like lists and dictionaries for this project.
 
 ***Project Instructions***
