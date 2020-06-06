@@ -1,3 +1,12 @@
+"""
+Python Developement Techdegree
+Project 2 - Basketball-Stats-Tool
+
+Author: Felix Andrew Sapalaran (felixandrewsapalaran@gmail.com)
+---------------------------------------------------------------
+"""
+
+
 TEAMS = [
     'Panthers',
     'Bandits',
