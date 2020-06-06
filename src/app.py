@@ -1,3 +1,11 @@
+"""
+Python Developement Techdegree
+Project 2 - Basketball-Stats-Tool
+
+Author: Felix Andrew Sapalaran (felixandrewsapalaran@gmail.com)
+---------------------------------------------------------------
+"""
+
 import constants
 import random
 import copy
