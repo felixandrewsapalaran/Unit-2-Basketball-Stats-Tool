@@ -1,5 +1,5 @@
 # Unit-2-Basketball-Stats-Tool
-Build a console-based basketball team statistics tool to help me divide up a group of players into teams. I've applied my knowledge in of important data structures like lists and dictionaries for this project.
+Build a console-based program I applied my knowledge of built-in Python data types and combine these types to create structures to store and organize a team of Basketball players into distributed teams. This tool will not only balance the teams by the total number of players but also let me generate some statistics for a given team.
 
 ***Project Instructions***
 
